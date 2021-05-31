@@ -10,7 +10,7 @@ func main() {
 	var suma int 
 
 	//Pedir ingreso de datos
-	fmt.Print("Ingrese un numero: ")
+    fmt.Print("Ingrese un numero: ")
     fmt.Scan(&n1)
     fmt.Print("Ingrese otro numero: ")
     fmt.Scan(&n2)
